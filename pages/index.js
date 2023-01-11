@@ -47,22 +47,22 @@ export default function Home() {
             <div>
                 <ul className='grid grid-flow-row auto-cols-max'>
                   <li style={{marginTop: 0}}>
-                    <a href="https://tools.isalman.dev?ref=2023-homepage" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🛠️ My Deployed Tools </a>
+                    <a href="https://tools.isalman.dev?ref=2023-homepage" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-cyan-500 to-blue-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🛠️ My Deployed Tools </a>
                   </li>
                   <li style={{marginTop: 20}}>
-                    <a href="https://blog.isalman.dev?ref=2023-homepage" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-orange-500 to-yellow-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">📃 Check Out My Blog </a>
+                    <a href="https://blog.isalman.dev?ref=2023-homepage" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-orange-500 to-yellow-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">📃 Check Out My Blog </a>
                   </li>
                   <li style={{marginTop: 20}}>
-                    <a href="https://play.google.com/store/apps/developer?id=Salman+Qureshi" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-emerald-500 to-teal-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">📱 My Apps on Play Store </a>
+                    <a href="https://play.google.com/store/apps/developer?id=Salman+Qureshi" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-emerald-500 to-teal-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">📱 My Apps on Play Store </a>
                   </li>
                   <li style={{marginTop: 20}}>
-                    <a href="https://github.com/hotheadhacker" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-red-500 to-amber-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🧑‍💻 My Open Source Work</a>
+                    <a href="https://github.com/hotheadhacker" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-red-500 to-amber-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🧑‍💻 My Open Source Work</a>
                   </li>
                 </ul>
             </div>
           </div>
 
-          <div style={{marginTop: 100}} className='grid place-content-center'><p>Designed By: <a href='https://github.com/hotheadhacker' target='_BLANK' className='text-blue-600'>Salman Qureshi</a></p></div>
+          <div style={{marginTop: 100}} className='grid place-content-center'><p>Designed By: <a href='https://github.com/hotheadhacker' target='_BLANK' rel="noreferrer" className='text-blue-600'>Salman Qureshi</a></p></div>
        </div>
       </main>
     </>
