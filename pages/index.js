@@ -53,7 +53,10 @@ export default function Home() {
                     <a href="https://blog.isalman.dev?ref=2023-homepage" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-orange-500 to-yellow-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">📃 Check Out My Blog </a>
                   </li>
                   <li style={{marginTop: 20}}>
-                    <a href="https://github.com/hotheadhacker" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-red-500 to-green-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🧑‍💻 My Open Source Work</a>
+                    <a href="https://play.google.com/store/apps/developer?id=Salman+Qureshi" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-emerald-500 to-teal-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">📱 My Apps on Play Store </a>
+                  </li>
+                  <li style={{marginTop: 20}}>
+                    <a href="https://github.com/hotheadhacker" target='_BLANK' className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-red-500 to-amber-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🧑‍💻 My Open Source Work</a>
                   </li>
                 </ul>
             </div>
