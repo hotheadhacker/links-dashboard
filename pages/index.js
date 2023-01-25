@@ -59,7 +59,7 @@ export default function Home() {
                     <a href="https://github.com/hotheadhacker" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-red-500 to-amber-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🧑‍💻 My Open Source Work</a>
                   </li>
                   <li style={{marginTop: 20}}>
-                    <a href="https://calendly.com/isalman-dev/30min" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-emerald-500 to-blue-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">💡 Have idea? Let's Discuss</a>
+                    <a href="https://calendly.com/isalman-dev/30min" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-emerald-500 to-blue-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">💡 Have idea? Let&apos;s Discuss</a>
                   </li>
                 </ul>
             </div>
