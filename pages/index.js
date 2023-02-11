@@ -65,7 +65,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div style={{marginTop: 100}} className='grid place-content-center'><p>Designed By: <a href='https://github.com/hotheadhacker' target='_BLANK' rel="noreferrer" className='text-blue-600'>Salman Qureshi</a></p></div>
+          <div style={{marginTop: 100}} className='grid place-content-center'><p>Designed By: <a href='https://github.com/hotheadhacker' target='_BLANK' rel="noreferrer" className='text-blue-600'>Salman Qureshi</a> - <a rel="me" href="https://infosec.exchange/@hotheadhacker">Mastodon</a></p></div>
        </div>
       </main>
     </>
