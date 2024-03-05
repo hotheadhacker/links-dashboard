@@ -61,6 +61,9 @@ export default function Home() {
                   <li style={{marginTop: 20}}>
                     <a href="https://calendly.com/isalman-dev/30min" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-emerald-500 to-blue-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">💡 Have idea? Let&apos;s Discuss</a>
                   </li>
+                  <li style={{marginTop: 20}}>
+                    <a href="https://opensea.io/assets/matic/0xb9e006e2f14579b2bbef21494c8cad2af71b1265/2" target='_BLANK' rel="noreferrer" className="flex rounded-sm py-2 px-10 text-lg bg-gradient-to-r from-tomato-500 to-yellow-500 rounded-lg hover:bg-gradient-to-r hover:from-violet-500 hover:to-fuchsia-500">🖼️ NFT </a>
+                  </li>
                 </ul>
             </div>
           </div>
